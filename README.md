@@ -9,10 +9,14 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
+### Compiles and hot-reloads for development
 ```
-npm run build
+npm run serve
+```
+
+### Run local server for APIs
+```
+json-server db.json
 ```
 
 ### Lints and fixes files
