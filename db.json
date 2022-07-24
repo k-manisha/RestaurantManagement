@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "Manisha",
+      "email": "mk@test.com",
+      "password": "abc@123",
+      "id": 1
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "KFC",
+      "address": "Noida",
+      "contact": "32458723",
+      "id": 1
+    }
+  ]
+}
